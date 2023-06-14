@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Operação 1</Text>
+      <Text>Felipe Beser e José Parente</Text>
     </View>
   );
 }
